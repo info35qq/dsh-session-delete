@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Delete archived sessions",
+    "description": "Adds a Delete this session entry to the session menu that permanently removes an archived session's stored log files. Archiving stays the reversible step; deleting cannot be undone.",
+    "detail": "docs/DETAIL.md"
+  }
+}
